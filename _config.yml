@@ -1,7 +1,8 @@
 # Site settings
 title: Attack of the Stack
 email: blah@gmail.com
-baseurl: '/wafflesblog'
+baseurl: /wafflesblog
+
 github_username:  CodeFluent
 highlighter: pygments
 encoding: UTF-8
